@@ -11,7 +11,7 @@ I have been working with Identity and Access management for nearly 10 years. BUT
 Create a Lateral Orchestration model complete(ish) with users, groups, policies, and resources.
 Within that model, setup Identity and Access control
 
-[ ] Phase 1: Foundation  
+[X] Phase 1: Foundation  
   Define custom attributes.
 
 [ ] Phase 2: Policy  
@@ -26,3 +26,6 @@ Within that model, setup Identity and Access control
 [ ] Phase 5: Profit  
   Devlop a larger net-worth than Bezos & Musk combined.  
   Put it into a savings account and live on the interest.
+
+28 Apr '26
+Phase 1 completed
