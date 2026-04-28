@@ -11,17 +11,18 @@ I have been working with Identity and Access management for nearly 10 years. BUT
 Create a Lateral Orchestration model complete(ish) with users, groups, policies, and resources.
 Within that model, setup Identity and Access control
 
-[ ] Phase 1: Foundation
+[ ] Phase 1: Foundation  
   Define custom attributes.
 
-[ ] Phase 2: Policy
+[ ] Phase 2: Policy  
   Build Group Rules to automate "Lateral" movement.
 
-[ ] Phase 3: Resources
+[ ] Phase 3: Resources  
   Use Bookmark Apps to simulate secured workzones.
 
-[ ] Phase 4: AAR & Verification
+[ ] Phase 4: AAR & Verification  
   Execute "Kill-Switch" scenarios and verify the logic holds.
 
-[ ] Phase 5: Profit
-  Devlop a larger net-worth than Bezos & Musk combined
+[ ] Phase 5: Profit  
+  Devlop a larger net-worth than Bezos & Musk combined  
+  Put it into a savings account and live on the interest.
