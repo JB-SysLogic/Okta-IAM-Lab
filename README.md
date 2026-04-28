@@ -24,5 +24,5 @@ Within that model, setup Identity and Access control
   Execute "Kill-Switch" scenarios and verify the logic holds.
 
 [ ] Phase 5: Profit  
-  Devlop a larger net-worth than Bezos & Musk combined  
+  Devlop a larger net-worth than Bezos & Musk combined.  
   Put it into a savings account and live on the interest.
